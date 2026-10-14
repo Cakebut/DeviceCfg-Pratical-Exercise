@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ktToPEi+zTg=",
+  "dgSpecHash": "iWI4PI2WJ68=",
   "success": true,
-  "projectFilePath": "C:\\Users\\justi\\Desktop\\DeviceCfg\\DeviceCfg.csproj",
+  "projectFilePath": "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\DeviceCfg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.18\\microsoft.bcl.cryptography.9.0.18.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.data.sqlclient\\7.1.1\\microsoft.data.sqlclient.7.1.1.nupkg.sha512",

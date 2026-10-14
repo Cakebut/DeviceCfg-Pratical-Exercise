@@ -22,10 +22,7 @@ using Microsoft.Data.SqlClient;
 
 class Program
 {
-    // ---------------------------------------------------------------------
-    // Settings you may want to change
-    // ---------------------------------------------------------------------
-
+    
     // The table we read from.
     const string TableName = "dbo.DeviceConfig";
 

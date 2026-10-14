@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\justi\\Desktop\\DeviceCfg\\DeviceCfg.csproj": {}
+    "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\DeviceCfg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\justi\\Desktop\\DeviceCfg\\DeviceCfg.csproj": {
+    "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\DeviceCfg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justi\\Desktop\\DeviceCfg\\DeviceCfg.csproj",
+        "projectUniqueName": "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\DeviceCfg.csproj",
         "projectName": "DeviceCfg",
-        "projectPath": "C:\\Users\\justi\\Desktop\\DeviceCfg\\DeviceCfg.csproj",
+        "projectPath": "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\DeviceCfg.csproj",
         "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\justi\\Desktop\\DeviceCfg\\obj\\",
+        "outputPath": "C:\\Users\\justi\\Documents\\GitHub\\DeviceCfg-Pratical-Exercise\\DeviceCfg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
